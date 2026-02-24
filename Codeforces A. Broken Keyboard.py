@@ -15,7 +15,7 @@ def list_of_strings():
 
 t = int_input()
 for _ in range(t):
-    s = input().strip()
+    s = string_input()
     i = 0
     temp = set()
     
